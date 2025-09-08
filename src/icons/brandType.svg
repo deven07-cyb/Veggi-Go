@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none">
+  <!-- Briefcase base -->
+  <path opacity="0.4" d="M3 7.75C3 6.51 4.01 5.5 5.25 5.5h13.5c1.24 0 2.25 1.01 2.25 2.25v9c0 1.24-1.01 2.25-2.25 2.25H5.25C4.01 19 3 17.99 3 16.75v-9Z" fill="currentColor"/>
+
+  <!-- Handle & Windows (building style) -->
+  <path d="M9 4.25C9 3.56 9.56 3 10.25 3h3.5c.69 0 1.25.56 1.25 1.25V5h-1.5v-.5h-3V5H9V4.25ZM8.5 10h1v1h-1v-1Zm0 3h1v1h-1v-1Zm3-3h1v1h-1v-1Zm0 3h1v1h-1v-1Zm3-3h1v1h-1v-1Zm0 3h1v1h-1v-1Z" fill="currentColor"/>
+</svg>
